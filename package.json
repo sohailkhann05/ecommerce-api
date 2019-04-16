@@ -21,5 +21,23 @@
         "sass": "^1.15.2",
         "sass-loader": "^7.1.0",
         "vue": "^2.5.17"
-    }
+    },
+    "name": "eapi",
+    "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
+    "version": "1.0.0",
+    "main": "webpack.mix.js",
+    "directories": {
+        "test": "tests"
+    },
+    "dependencies": [],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sohailkhann05/ecommerce-api.git"
+    },
+    "author": "Sohail Khan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sohailkhann05/ecommerce-api/issues"
+    },
+    "homepage": "https://github.com/sohailkhann05/ecommerce-api#readme"
 }
